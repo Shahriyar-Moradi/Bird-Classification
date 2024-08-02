@@ -1,4 +1,4 @@
-# Bird-Classification_Optriment_Task
+# Bird-Classification_Task
 
 All details are in the report,But some instructions are also included here.
 
