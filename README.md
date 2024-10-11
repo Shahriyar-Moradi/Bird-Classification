@@ -1,4 +1,4 @@
-# Bird-Classification_Task
+# Bird-Classification
 
 All details are in the report,But some instructions are also included here.
 
